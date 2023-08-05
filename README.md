@@ -1,0 +1,3 @@
+# python-api-challenge
+In this challenge, I analyze data from the OpenWeatherMapAPI. Using this data, I analyzed different weather related attributes (such as wind speed and humidity) to see if there was a relation to the latitude of a random group of cities. Temperature seemed to be the only factor that had any relevant relationship to latitude.
+In the second Vacation file, I analyzed 9 cities from the larger list that fell into my perfect weather criteria. When creating the second map showcasing the hotels found near each city, I used code from this website question: https://discourse.holoviz.org/t/add-an-extra-field-when-hovering-in-hvplot-scatter/2331. The code used is hover_cols=[]. 
